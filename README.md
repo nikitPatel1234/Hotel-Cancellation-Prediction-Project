@@ -89,5 +89,6 @@ Bookings are due to arrive between July 01, 2015 and August 31, 2017.
 2. Data Cleaning
 3. EDA
 4. Feature Engineering
-5. Conclusion
+5. ML algorithm
+6. Conclusion
 
